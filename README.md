@@ -159,8 +159,6 @@ El proyecto puede extenderse para:
 
 ## Referencias
 
-## Referencias
-
 - Sutton, R. S., & Barto, A. G. (2018). Reinforcement learning: An introduction. MIT press.
 - Mnih, V., Kavukcuoglu, K., Silver, D., et al. (2015). Human-level control through deep reinforcement learning. Nature, 518(7540), 529-533.
 - Documentación de Gymnasium: [https://gymnasium.farama.org/](https://gymnasium.farama.org/)
